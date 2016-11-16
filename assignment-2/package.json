@@ -1,0 +1,16 @@
+{
+  "name": "ulysses-love-letter",
+  "version": "1.0.0",
+  "description": "constructing simple love letters containing phrases from Ulysses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jbaranska",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.0.4",
+    "commander": "^2.9.0",
+    "word-wrap": "^1.1.0"
+  }
+}
